@@ -1,0 +1,16 @@
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\obj\Debug\net5.0\My project 1.csproj.AssemblyReference.cache
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\obj\Debug\net5.0\My project 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\obj\Debug\net5.0\My project 1.AssemblyInfoInputs.cache
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\obj\Debug\net5.0\My project 1.AssemblyInfo.cs
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\obj\Debug\net5.0\My project 1.csproj.CoreCompileInputs.cache
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\bin\Debug\net5.0\My project 1.exe
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\bin\Debug\net5.0\My project 1.deps.json
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\bin\Debug\net5.0\My project 1.runtimeconfig.json
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\bin\Debug\net5.0\My project 1.runtimeconfig.dev.json
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\bin\Debug\net5.0\My project 1.dll
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\bin\Debug\net5.0\ref\My project 1.dll
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\bin\Debug\net5.0\My project 1.pdb
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\obj\Debug\net5.0\My project 1.dll
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\obj\Debug\net5.0\ref\My project 1.dll
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\obj\Debug\net5.0\My project 1.pdb
+C:\Users\irina\Desktop\LU VUMC C#\07092021\My project 1\My project 1\obj\Debug\net5.0\My project 1.genruntimeconfig.cache
