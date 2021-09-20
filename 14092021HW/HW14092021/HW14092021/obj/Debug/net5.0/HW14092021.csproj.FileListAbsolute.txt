@@ -1,0 +1,16 @@
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\bin\Debug\net5.0\HW14092021.exe
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\bin\Debug\net5.0\HW14092021.deps.json
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\bin\Debug\net5.0\HW14092021.runtimeconfig.json
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\bin\Debug\net5.0\HW14092021.runtimeconfig.dev.json
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\bin\Debug\net5.0\HW14092021.dll
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\bin\Debug\net5.0\ref\HW14092021.dll
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\bin\Debug\net5.0\HW14092021.pdb
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\obj\Debug\net5.0\HW14092021.csproj.AssemblyReference.cache
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\obj\Debug\net5.0\HW14092021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\obj\Debug\net5.0\HW14092021.AssemblyInfoInputs.cache
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\obj\Debug\net5.0\HW14092021.AssemblyInfo.cs
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\obj\Debug\net5.0\HW14092021.csproj.CoreCompileInputs.cache
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\obj\Debug\net5.0\HW14092021.dll
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\obj\Debug\net5.0\ref\HW14092021.dll
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\obj\Debug\net5.0\HW14092021.pdb
+C:\Users\irina\Desktop\LU VUMC C#\14092021HW\HW14092021\HW14092021\obj\Debug\net5.0\HW14092021.genruntimeconfig.cache
